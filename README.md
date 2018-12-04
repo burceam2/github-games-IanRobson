@@ -7,3 +7,5 @@ You can play the game at: https://github.com/githubschool/github-games-IanRobson
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
+
+Making a change to the readme so I can create a PR.
